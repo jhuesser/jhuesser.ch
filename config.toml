@@ -123,7 +123,7 @@ theme = "hugo-freelancer-theme"
                 link=  "//last.fm/user/jhuesser"
 
             [[params.footer.social.networks]]
-                icon = "fa-stackoverflow"
+                icon = "fa-stack-overflow"
                 link=  "//stackoverflow.com/users/7123766/jonas-h%C3%BCsser"
 
             [[params.footer.social.networks]]
