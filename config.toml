@@ -13,7 +13,7 @@ theme = "hugo-freelancer-theme"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Jonas Hüsser"
-    description = "19 year old system engineer in apprenticeship, does something with media."
+    description = "21 year old system engineer, does something with media."
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -56,12 +56,12 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I'm 19 years old and living in Switzerland. Currently I'm in an apprenticeship as system engineer. I can do some basic scripting and programming in PHP, bash and Powershell. I want to learn C, C++, Objective-C and Swift."
-        right = "In my spare time I usually meet my friends. But I do a lot with IT and new media. Also I'm playing the mobile game ingress. You can find more informations about it, if you click the button below."
+        left = "I'm 21 years old and live in Switzerland. Currently I'm working as a system engineer. I can do some basic scripting and programming in PHP, bash and Powershell. I want to learn C, C++, Objective-C and Swift."
+        right = "In my spare time I usually meet up with my friends. But I'm very interested in the use of IT and new media. I also play the mobile game ingress. You can find more information about it by clicking the button below."
 
         [params.about.button]
             text = "Check out ingress"
-            link = "//irzh.ch"
+            link = "//ag.swiss-ingress.ch"
             icon = "key"
 
 
