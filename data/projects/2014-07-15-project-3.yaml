@@ -5,4 +5,4 @@ img: irm-logo.png
 client: ItalianRockMafia
 clientLink: "https://italianrockmafia.ch"
 category: Web Development
-description: This is a private site for my friends. It's an easy event management tool and social network
+description: This is a private site for my friends. It's an easy event management and basically a frontend for our telegram bot.
