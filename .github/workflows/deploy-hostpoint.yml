@@ -25,4 +25,3 @@ jobs:
           username: ${{ secrets.HP_DEPLOY_USER }}
           password: ${{ secrets.HP_DEPLOY_PASSWORD }}
           local-dir: ./public/
-          dry-run: true
