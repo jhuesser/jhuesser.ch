@@ -22,7 +22,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           server: ${{ secrets.HP_SERVER }}
-          username: ${{ secrets.HP_USER }}
+          username: ${{ secrets.HP_DEPLOY_USER }}
           password: ${{ secrets.HP_DEPLOY_PASSWORD }}
           local-dir: ./public/
           dry-run: true
