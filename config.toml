@@ -13,7 +13,7 @@ theme = "hugo-freelancer-theme"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Jonas Hüsser"
-    description = "23 year old system engineer, does something with media."
+    description = "25 year old system engineer, does something with media."
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -56,7 +56,7 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About me"
         # The about text is splitted into a left and right column
-        left = "I'm a 23 years old system engineer from Switzerland. My professional skills include Linux and Windows servers, Citrix and also bash & PowerShell scripting. Currently I'm learning new things constantly, like automating things with Ansible, Terraform and Docker."
+        left = "I'm a 25 years old system engineer from Switzerland. My professional skills include Linux and Windows servers, Citrix and also bash & PowerShell scripting. Currently I'm learning new things constantly, like automating things with Ansible, Terraform and Docker."
         right = "In my free time, I'm experimenting with a lot of new IT technologies and building websites for various projects - as you can see in the [section above](#portfolio). Also I love to go to concerts and festivals, I'm a huge rock and metal fan. Also I'm playing the AR game Ingress. You can find more about it, using the button below."
 
         [params.about.button]
