@@ -36,7 +36,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Jonas Hüsser"
-        subtitle = "system engineer - does something with media"
+        subtitle = "IT System Engineer 👨‍💻 · Video Production 📹 · Rock / Metal 🤘 🎸"
 
 
     [params.portfolio]
@@ -107,14 +107,22 @@ theme = "hugo-freelancer-theme"
             [[params.footer.social.networks]]
                 icon = "fa-twitter"
                 link=  "//twitter.com/JonasHuesser"
+
+            [[params.footer.social.networks]]
+                icon = "fa-cloud"
+                link=  "//bsky.app/profile/jhuesser.ch"
+
+            [[params.footer.social.networks]]
+                icon = "fa-instagram"
+                link=  "//instagram.com/jhuesser.ch"
                 
             [[params.footer.social.networks]]
                 icon = "fa-linkedin"
-                link=  "https://www.linkedin.com/in/jonas-hüsser/"
+                link=  "//www.linkedin.com/in/jonas-hüsser/"
 
             [[params.footer.social.networks]]
                 icon = "fa-xing"
-                link=  "https://www.xing.com/profile/Jonas_Huesser/cv"
+                link=  "//www.xing.com/profile/Jonas_Huesser/cv"
 
             [[params.footer.social.networks]]
                 icon = "fa-paper-plane"
@@ -131,7 +139,7 @@ theme = "hugo-freelancer-theme"
 
             [[params.footer.social.networks]]
                 icon = "fa-youtube"
-                link=  "///www.youtube.com/c/JonasH%C3%BCsser"
+                link=  "//www.youtube.com/c/JonasH%C3%BCsser"
 
         [params.footer.credits]
             title = "About this site"
