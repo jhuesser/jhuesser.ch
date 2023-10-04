@@ -56,13 +56,13 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About me"
         # The about text is splitted into a left and right column
-        left = "I'm a 26 years old system engineer from Switzerland. My professional skills include Linux and Windows servers, Citrix and also bash & PowerShell scripting. Currently I'm learning new things constantly, like automating things with Ansible, Terraform and Docker."
-        right = "In my free time, I'm experimenting with a lot of new IT technologies and building websites for various projects - as you can see in the [section above](#portfolio). Also I love to go to concerts and festivals, I'm a huge rock and metal fan. Also I'm playing the AR game Ingress. You can find more about it, using the button below."
+        left = "I'm a 26 years old system engineer from Switzerland. My professional skills include Linux and Windows servers, Citrix Virtual Apps & Desktop, Networks, bash & PowerShell scripting. I'm also familiar with technlogies like Docker, Ansible and IT infrastructure in gernaeral. My expirince ranges from simple helpdesk jobs during my apprenticeship to system engineering and 3rd level support at MSPs & cloud providers."
+        right = "In my free time, I'm experimenting with a lot of new IT technologies and building websites for various projects. Another passion I have is video production, where I've done some projects for friends & work. You can see a selection of projects i worked on in the [portfolio](#portfolio) section above. Futher, I love to go to concerts and festivals, I'm a huge rock and metal fan. Feel free to get in touch, if you wish my help for a project."
 
         [params.about.button]
-            text = "Check out ingress"
-            link = "//ag.swiss-ingress.ch"
-            icon = "key"
+            text = "Contact me"
+            link = "mailto:projects@jhuesser.ch"
+            icon = "envelope"
 
 
     [params.contact]
@@ -90,9 +90,9 @@ theme = "hugo-freelancer-theme"
         copyright = "&copy; 2023 Jonas Hüsser. Powered by [Hugo](//gohugo.io). Hosted in Switzerland."
 
         [params.footer.location]
-            title = "Location"
+            title = "Certificates & Courses"
             # Postal address (add as many lines as necessary)
-            address = ["Baden,", "Switzerland"]
+            address = ["System engineer, Federal Certificate of Vocational Education and Training", "", "ITIL® v3 Foundation Certificate in IT Service Management", "", "Non-commissioned officer, staff assistance, civil protection",]
 
         [params.footer.social]
             title = "Around the web"
@@ -142,5 +142,5 @@ theme = "hugo-freelancer-theme"
                 link=  "//www.youtube.com/c/JonasH%C3%BCsser"
 
         [params.footer.credits]
-            title = "About this site"
-            text = "I use this site to showcase my work and experimenting with new technologies."
+            title = "Location"
+            text = "Baden, Switzerland"
