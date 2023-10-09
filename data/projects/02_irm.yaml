@@ -5,4 +5,4 @@ img: irm-logo.png
 client: ItalianRockMafia
 clientLink: "https://italianrockmafia.ch"
 category: Web Development
-description: This is a private site for my friends. It's an easy event management and basically a frontend for our telegram bot.
+description: For this private project, I've created an event management tool which integrates into a telegram bot. Memebers of a group chat can create and sign up to events, organise car pooling and more. It also features a music record library management tool.

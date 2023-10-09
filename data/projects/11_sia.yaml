@@ -5,4 +5,4 @@ img: sia.png
 client: Ingress Crossfaction Community Switzerland
 clientLink: "https://award.swiss-ingress.ch"
 category: Web Development
-description: This is the landing page of the Swiss Ingress Awards 2018. The Crossfaction community hosted a competition between all players, in the game [Ingress by Niantic](https://ingress.com), who liked to participate.
+description: This is the landing page of the Swiss Ingress Awards 2018. The Crossfaction community hosted a competition between all players, in the game [Ingress by Niantic](https://ingress.com), who liked to participate. I've created the public landing page and in addition wrote a tool to calcluate the winners of each category by integrating various third party APIs.
