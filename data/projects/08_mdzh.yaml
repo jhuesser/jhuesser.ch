@@ -5,4 +5,4 @@ img: zhmdlogo.png
 client: Ingress Zurich Crossfaction
 clientLink: "https://missionday-zurich.ch"
 category: Web Development
-description: This site is the landing page of the Ingress MissionDay in Zurich. MissionDays are an in game event in [Ingress by Niantic](https://ingress.com) which bring togheter players of both factions.
+description: This site is the landing page of the Ingress MissionDay in Zurich. MissionDays are an in game event in [Ingress by Niantic](https://ingress.com) which bring togheter players of both factions. I've built the website using a [theme](https://github.com/garytube/missionday) built by the community and was part of the orga team that made this event a success for 800* people.
