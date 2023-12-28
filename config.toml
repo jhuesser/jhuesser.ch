@@ -56,8 +56,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About me"
         # The about text is splitted into a left and right column
-        left = "I'm a 26 years old system engineer from Switzerland. My professional skills include Linux and Windows servers, Citrix Virtual Apps & Desktop, Networks, bash & PowerShell scripting. I'm also familiar with technlogies like Docker, Ansible and IT infrastructure in gernaeral. My expirince ranges from simple helpdesk jobs during my apprenticeship to system engineering and 3rd level support at MSPs & cloud providers."
-        right = "In my free time, I'm experimenting with a lot of new IT technologies and building websites for various projects. Another passion I have is video production, where I've done some projects for friends & work. You can see a selection of projects i worked on in the [portfolio](#portfolio) section above. Futher, I love to go to concerts and festivals, I'm a huge rock and metal fan. Feel free to get in touch, if you wish my help for a project."
+        left = "I'm a 26 years old system engineer from Switzerland. My professional skills include Linux and Windows servers, Citrix Virtual Apps & Desktop, Networks, bash & PowerShell scripting. I'm also familiar with technlogies like Docker, Ansible and IT infrastructure in general. My experience ranges from simple helpdesk jobs during my apprenticeship to system engineering and 3rd level support at MSPs & cloud providers."
+        right = "In my free time, I'm experimenting with a lot of new IT technologies and building websites for various projects. Another passion I have is video production, where I've done some projects for friends & work. You can see a selection of projects I worked on in the [portfolio](#portfolio) section above. Futher, I love to go to concerts and festivals, I'm a huge rock and metal fan. Feel free to get in touch, if you wish my help for a project."
 
         [params.about.button]
             text = "Contact me"
