@@ -92,7 +92,7 @@ theme = "hugo-freelancer-theme"
         [params.footer.location]
             title = "Certificates & Courses"
             # Postal address (add as many lines as necessary)
-            address = ["System engineer, Federal Certificate of Vocational Education and Training", "", "ITIL® v3 Foundation Certificate in IT Service Management", "", "Non-commissioned officer, staff assistance, civil protection",]
+            address = ["System engineer, Federal Certificate of Vocational Education and Training", "", "ITIL® v3 Foundation Certificate in IT Service Management", "", "officer, staff assistance, civil protection",]
 
         [params.footer.social]
             title = "Around the web"
